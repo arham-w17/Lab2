@@ -55,7 +55,7 @@ You should now see the changes you had made are also in the `main` branch.
   - IntelliJ: `Git -> branches... -> task_1 -> Delete`
   - Terminal: `git branch -d task_1`
 
-- [] Last step, we'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
+- [X] Last step, we'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
   - we suggest you check off this last item, commit that change (just right on the main branch is fine;
   no need to branch for this little step), then push your code. Check GitHub to ensure you can
   see your changes.
@@ -86,7 +86,7 @@ You'll notice that your repository already has two branches called `alice` and `
     `recipe.md` file and `git commit` to finish the merge.
 - [X] Once the merge is complete, delete the `bob` branch.
 
-- [ ] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
+- [X] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
 
 Now, you are almost ready to share your recipe with the remote! 
 
